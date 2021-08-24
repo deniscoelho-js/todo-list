@@ -20,4 +20,4 @@ O projeto consiste em um aplicativo todo-list para ser usado no navegador. Todo 
 
 - ReactJS
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/83840866/130660594-71153c66-e410-415b-82b4-d2f0f33c3a08.gif)
+![list](https://user-images.githubusercontent.com/83840866/130660998-af7dd7fb-9220-49d0-ad2f-afcd9a72b79c.gif)
